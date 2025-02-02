@@ -7,7 +7,7 @@ Language: Python
 Network Interest: Looking to collaborate on everything data analysis   
 
 
-[![Erask's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erask&show_icons=true))](https://github.com/Erask/github-readme-stats)
+[![Erask's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erask&show_icons=true&theme=merko))](https://github.com/Erask/github-readme-stats)
 
 
 
