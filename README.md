@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-### Happy to have you here and welcome to my Hub.
+### Happy to have you here and welcome to my hub.
 
 Current Upskill: Data Science Fundamentals 🌱  
 Language: Python   
